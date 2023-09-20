@@ -32,6 +32,6 @@
     "chai": "^4.3.7",
     "mocha": "^10.2.0",
     "mocha-junit-reporter": "^2.2.0",
-    "sinon": "^15.0.4"
+    "sinon": "^16.0.0"
   }
 }
