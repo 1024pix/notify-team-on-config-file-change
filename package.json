@@ -8,7 +8,7 @@
     "preinstall": "npx check-engine"
   },
   "engines": {
-    "node": "16.20.2"
+    "node": "18.17.1"
   },
   "repository": {
     "type": "git",
