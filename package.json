@@ -26,7 +26,7 @@
     "@actions/github": "^5.0.0",
     "@slack/web-api": "^6.4.0",
     "install": "^0.13.0",
-    "npm": "^8.0.0"
+    "npm": "^9.0.0"
   },
   "devDependencies": {
     "chai": "^4.3.7",
