@@ -23,7 +23,7 @@
   "homepage": "https://github.com/1024pix/notify-team-on-config-file-change#readme",
   "dependencies": {
     "@actions/core": "^1.5.0",
-    "@actions/github": "^5.0.0",
+    "@actions/github": "^6.0.0",
     "@slack/web-api": "^6.4.0",
     "install": "^0.13.0",
     "npm": "^8.0.0"
